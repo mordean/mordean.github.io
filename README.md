@@ -2,6 +2,7 @@
 
 Welcome to my portfolio. Below are some of the projects I've worked on, grouped by theme: Recommender Systems, A/B Testing, and Geospatial Data Science.
 
+This portfolio is a work in progress. New projects and updates are continuously being added.
 ---
 
 ## Table of Contents
