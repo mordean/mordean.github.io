@@ -7,6 +7,7 @@ This portfolio is a work in progress. New projects and updates are continuously 
 ---
 
 ## Table of Contents
+- [Research](#research)
 - [Recommender Systems](#recommender-systems)
   - [Movie Recommender with Collaborative Filtering](#movie-recommender-with-collaborative-filtering)
   - [Hashtag Recommender with Content-Based Filtering](#hashtag-recommender-with-content-based-filtering)
