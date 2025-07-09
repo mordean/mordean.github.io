@@ -1,6 +1,6 @@
 # Data Science Portfolio – Morgan Dean
 
-Welcome to my portfolio. Below are some of the projects I've worked on, grouped by theme: Recommender Systems, A/B Testing, and Geospatial Data Science.
+Welcome to my portfolio. Below are some of the projects I've worked on, grouped by theme.
 
 This portfolio is a work in progress. New projects and updates are continuously being added.
 
@@ -16,6 +16,9 @@ This portfolio is a work in progress. New projects and updates are continuously 
   - [Geospatial Raster Merging Tool](#geospatial-raster-merging-tool)
 
 ---
+## Research
+
+Incoming.
 
 ## Recommender Systems
 
